@@ -1,0 +1,80 @@
+{
+
+  "TypesOfRice": [
+    {
+      "Name": "Basmati",
+      "Weight": 23,
+      "Price": 200
+    },
+
+    {
+      "Name": "Rice1",
+      "Weight": 20,
+      "Price": 150
+    },
+
+    {
+      "Name": "Rice2",
+      "Weight": 55,
+      "Price": 400
+    },
+
+    {
+      "Name": "Rice3",
+      "Weight": 59,
+      "Price": 800
+    }
+  ],
+
+  "TypesOfWheet": [
+    {
+      "Name": "Wheet1",
+      "Weight": 19,
+      "Price": 200
+    },
+
+    {
+      "Name": "Wheet2",
+      "Weight": 16,
+      "Price": 150
+    },
+
+    {
+      "Name": "wheet3",
+      "Weight": 14,
+      "Price": 400
+    },
+
+    {
+      "Name": "wheet4",
+      "Weight": 17,
+      "Price": 800
+    }
+  ],
+
+  "TypesOfPulses": [
+    {
+      "Name": "Pulses",
+      "Weight": 18,
+      "Price": 200
+    },
+
+    {
+      "Name": "Pulses1",
+      "Weight": 20,
+      "Price": 150
+    },
+
+    {
+      "Name": "Pulses2",
+      "Weight": 23,
+      "Price": 400
+    },
+
+    {
+      "Name": "Pulses3",
+      "Weight": 27,
+      "Price": 800
+    }
+  ]
+}
