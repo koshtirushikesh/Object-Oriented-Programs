@@ -1,5 +1,29 @@
 {
+  "StockManagment": [
+    {
+      "StockNames": "Hdfc",
+      "NumberShare": 18,
+      "Price": 200
+    },
 
+    {
+      "StockNames": "relince",
+      "NumberShare": 20,
+      "Price": 150
+    },
+
+    {
+      "StockNames": "wipro",
+      "NumberShare": 23,
+      "Price": 400
+    },
+
+    {
+      "StockNames": "wipro2",
+      "NumberShare": 27,
+      "Price": 800
+    }
+  ],
   "TypesOfRice": [
     {
       "Name": "Basmati",

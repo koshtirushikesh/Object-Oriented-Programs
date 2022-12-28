@@ -16,6 +16,7 @@ namespace InventoryManagement
                 try
                 {
                     string json = file.ReadToEnd();
+                    Details abc = JsonConvert.DeserializeObject<Details>(json);
                     return JsonConvert.DeserializeObject<Details>(json);
                 }catch (Exception e)
                 {
